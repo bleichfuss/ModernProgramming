@@ -2,7 +2,7 @@
 //
 // author: Dominik Wirsig (XXXXXXX)
 //
-// Free Fall 
+// Free Fall - calculate the distance and velocity of an entered time in free fall
 
 #include <iostream>
 #include <cmath>
